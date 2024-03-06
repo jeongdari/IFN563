@@ -1,0 +1,15 @@
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/bin/Debug/net7.0/IFN563Test
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/bin/Debug/net7.0/IFN563Test.deps.json
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/bin/Debug/net7.0/IFN563Test.runtimeconfig.json
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/bin/Debug/net7.0/IFN563Test.dll
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/bin/Debug/net7.0/IFN563Test.pdb
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/obj/Debug/net7.0/IFN563Test.csproj.AssemblyReference.cache
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/obj/Debug/net7.0/IFN563Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/obj/Debug/net7.0/IFN563Test.AssemblyInfoInputs.cache
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/obj/Debug/net7.0/IFN563Test.AssemblyInfo.cs
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/obj/Debug/net7.0/IFN563Test.csproj.CoreCompileInputs.cache
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/obj/Debug/net7.0/IFN563Test.dll
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/obj/Debug/net7.0/refint/IFN563Test.dll
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/obj/Debug/net7.0/IFN563Test.pdb
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/obj/Debug/net7.0/IFN563Test.genruntimeconfig.cache
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/IFN563Test/IFN563Test/obj/Debug/net7.0/ref/IFN563Test.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assigment 1 - GamePicker/1.0.0": {
+        "runtime": {
+          "Assigment 1 - GamePicker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assigment 1 - GamePicker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

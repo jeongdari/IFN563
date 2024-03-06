@@ -1,0 +1,15 @@
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\bin\Release\net6.0\Assigment 1 - GamePicker.exe
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\bin\Release\net6.0\Assigment 1 - GamePicker.deps.json
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\bin\Release\net6.0\Assigment 1 - GamePicker.runtimeconfig.json
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\bin\Release\net6.0\Assigment 1 - GamePicker.dll
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\bin\Release\net6.0\Assigment 1 - GamePicker.pdb
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\obj\Release\net6.0\Assigment 1 - GamePicker.csproj.AssemblyReference.cache
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\obj\Release\net6.0\Assigment 1 - GamePicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\obj\Release\net6.0\Assigment 1 - GamePicker.AssemblyInfoInputs.cache
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\obj\Release\net6.0\Assigment 1 - GamePicker.AssemblyInfo.cs
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\obj\Release\net6.0\Assigment 1 - GamePicker.csproj.CoreCompileInputs.cache
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\obj\Release\net6.0\Assigment 1 - GamePicker.dll
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\obj\Release\net6.0\refint\Assigment 1 - GamePicker.dll
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\obj\Release\net6.0\Assigment 1 - GamePicker.pdb
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\obj\Release\net6.0\Assigment 1 - GamePicker.genruntimeconfig.cache
+C:\Users\56975\OneDrive - Queensland University of Technology\Classes\Assigment 1 - GamePicker\obj\Release\net6.0\ref\Assigment 1 - GamePicker.dll

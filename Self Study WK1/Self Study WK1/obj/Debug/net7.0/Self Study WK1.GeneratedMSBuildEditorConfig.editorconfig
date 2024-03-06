@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Self_Study_WK1
+build_property.ProjectDir = C:\Users\n11491205\OneDrive - Queensland University of Technology\1.Desktop\1. MIT QUT\2S2023\IFN563\C# Coding\Self Study WK1\Self Study WK1\

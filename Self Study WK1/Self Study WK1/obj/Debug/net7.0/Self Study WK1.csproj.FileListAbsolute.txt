@@ -1,0 +1,15 @@
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/bin/Debug/net7.0/Self Study WK1
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/bin/Debug/net7.0/Self Study WK1.deps.json
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/bin/Debug/net7.0/Self Study WK1.runtimeconfig.json
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/bin/Debug/net7.0/Self Study WK1.dll
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/bin/Debug/net7.0/Self Study WK1.pdb
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/obj/Debug/net7.0/Self Study WK1.csproj.AssemblyReference.cache
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/obj/Debug/net7.0/Self Study WK1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/obj/Debug/net7.0/Self Study WK1.AssemblyInfoInputs.cache
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/obj/Debug/net7.0/Self Study WK1.AssemblyInfo.cs
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/obj/Debug/net7.0/Self Study WK1.csproj.CoreCompileInputs.cache
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/obj/Debug/net7.0/Self Study WK1.dll
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/obj/Debug/net7.0/refint/Self Study WK1.dll
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/obj/Debug/net7.0/Self Study WK1.pdb
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/obj/Debug/net7.0/Self Study WK1.genruntimeconfig.cache
+/Users/Danny/OneDrive - Queensland University of Technology/1.Desktop/1. MIT QUT/2S2023/IFN563/C# Coding/Self Study WK1/Self Study WK1/obj/Debug/net7.0/ref/Self Study WK1.dll
